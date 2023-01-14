@@ -82,7 +82,7 @@ header{
     grid-area: img-side;
 }
 .img-side img{
-    background-image: url(/images/Circle\ design.svg);
+    background-image: url(../images/Circle\ design.svg);
     background-size: cover;
     background-repeat: no-repeat;
     
